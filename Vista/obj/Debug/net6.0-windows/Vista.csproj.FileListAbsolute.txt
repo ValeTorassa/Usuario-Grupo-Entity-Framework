@@ -1,0 +1,538 @@
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Vista.exe
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Vista.deps.json
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Vista.runtimeconfig.json
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Vista.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Vista.pdb
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Controladora.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Modelo.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Controladora.pdb
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Modelo.pdb
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.csproj.AssemblyReference.cache
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.FormGrupo.resources
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.FormGrupos.resources
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.csproj.GenerateResource.cache
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.AssemblyInfoInputs.cache
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.AssemblyInfo.cs
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.csproj.CoreCompileInputs.cache
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.csproj.CopyComplete
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\refint\Vista.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.pdb
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.genruntimeconfig.cache
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\ref\Vista.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Vista.exe
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Vista.deps.json
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Vista.runtimeconfig.json
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Vista.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Vista.pdb
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Azure.Core.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Azure.Identity.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Humanizer.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\System.Memory.Data.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\System.Text.Json.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Controladora.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Modelo.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Controladora.pdb
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Modelo.pdb
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.csproj.AssemblyReference.cache
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.FormGrupo.resources
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.FormGrupos.resources
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.csproj.GenerateResource.cache
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.AssemblyInfoInputs.cache
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.AssemblyInfo.cs
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.csproj.CoreCompileInputs.cache
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.csproj.CopyComplete
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\refint\Vista.dll
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.pdb
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.genruntimeconfig.cache
+G:\Otros ordenadores\acer aspire\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\ref\Vista.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Vista.exe
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Vista.deps.json
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Vista.runtimeconfig.json
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Vista.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Vista.pdb
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Azure.Core.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Azure.Identity.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Humanizer.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\System.Memory.Data.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\System.Text.Json.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Controladora.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Modelo.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Controladora.pdb
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Modelo.pdb
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.csproj.AssemblyReference.cache
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.FormGrupo.resources
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.FormGrupos.resources
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.csproj.GenerateResource.cache
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.AssemblyInfoInputs.cache
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.AssemblyInfo.cs
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.csproj.CoreCompileInputs.cache
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.csproj.CopyComplete
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\refint\Vista.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.pdb
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.genruntimeconfig.cache
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\ref\Vista.dll
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.FormUsuario.resources
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.FormUsuarios.resources
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.FormLogin.resources
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.FormPrincipal.resources
+G:\Otros ordenadores\PC´s\Archivos VS\2do-Cuatrimestre C# 2023\2 - UsuarioGrupo\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.FormRecuperarCLave.resources
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Vista.exe
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Vista.deps.json
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Vista.runtimeconfig.json
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Vista.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Vista.pdb
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\SQLitePCLRaw.core.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\browser-wasm\nativeassets\net6.0\e_sqlite3.a
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Controladora.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Modelo.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Controladora.pdb
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\bin\Debug\net6.0-windows\Modelo.pdb
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.csproj.AssemblyReference.cache
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.FormGrupo.resources
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.FormGrupos.resources
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.FormLogin.resources
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.FormPrincipal.resources
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.FormRecuperarCLave.resources
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.FormUsuario.resources
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.FormUsuarios.resources
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.csproj.GenerateResource.cache
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.AssemblyInfoInputs.cache
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.AssemblyInfo.cs
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.csproj.CoreCompileInputs.cache
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.csproj.CopyComplete
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\refint\Vista.dll
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.pdb
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\Vista.genruntimeconfig.cache
+C:\Users\Valen\Downloads\UsuarioGrupos\Vista\obj\Debug\net6.0-windows\ref\Vista.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\obj\Debug\net6.0-windows\Vista.csproj.GenerateResource.cache
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\obj\Debug\net6.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\obj\Debug\net6.0-windows\Vista.AssemblyInfoInputs.cache
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\obj\Debug\net6.0-windows\Vista.AssemblyInfo.cs
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\obj\Debug\net6.0-windows\Vista.csproj.CoreCompileInputs.cache
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\obj\Debug\net6.0-windows\Vista.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\obj\Debug\net6.0-windows\refint\Vista.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\obj\Debug\net6.0-windows\Vista.pdb
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\obj\Debug\net6.0-windows\Vista.GrupoAM.resources
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\obj\Debug\net6.0-windows\Vista.Grupos.resources
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\obj\Debug\net6.0-windows\Vista.Login.resources
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\obj\Debug\net6.0-windows\Vista.Menu.resources
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\obj\Debug\net6.0-windows\Vista.RecuperarClave.resources
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\obj\Debug\net6.0-windows\Vista.UsuarioAM.resources
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\obj\Debug\net6.0-windows\Vista.Usuarios.resources
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Vista.exe
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Vista.deps.json
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Vista.runtimeconfig.json
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Vista.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Vista.pdb
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Humanizer.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\System.Text.Json.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\obj\Debug\net6.0-windows\Vista.csproj.CopyComplete
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\obj\Debug\net6.0-windows\Vista.genruntimeconfig.cache
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\obj\Debug\net6.0-windows\ref\Vista.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\obj\Debug\net6.0-windows\Vista.csproj.AssemblyReference.cache
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Controlador.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Entidades.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Modelo.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Controlador.pdb
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Entidades.pdb
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Modelo.pdb
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Azure.Core.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Azure.Identity.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\System.Memory.Data.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Vista.exe
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Vista.deps.json
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Vista.runtimeconfig.json
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Vista.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Vista.pdb
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Azure.Core.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Azure.Identity.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Humanizer.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.Identity.Client.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Mono.TextTemplating.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\System.Configuration.ConfigurationManager.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\System.Memory.Data.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\System.Runtime.Caching.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\System.Text.Encodings.Web.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\System.Text.Json.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Controlador.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Entidades.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Modelo.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Controlador.pdb
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Entidades.pdb
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\bin\Debug\net6.0-windows\Modelo.pdb
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\obj\Debug\net6.0-windows\Vista.csproj.AssemblyReference.cache
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\obj\Debug\net6.0-windows\Vista.GrupoAM.resources
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\obj\Debug\net6.0-windows\Vista.Grupos.resources
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\obj\Debug\net6.0-windows\Vista.Login.resources
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\obj\Debug\net6.0-windows\Vista.Menu.resources
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\obj\Debug\net6.0-windows\Vista.RecuperarClave.resources
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\obj\Debug\net6.0-windows\Vista.UsuarioAM.resources
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\obj\Debug\net6.0-windows\Vista.Usuarios.resources
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\obj\Debug\net6.0-windows\Vista.csproj.GenerateResource.cache
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\obj\Debug\net6.0-windows\Vista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\obj\Debug\net6.0-windows\Vista.AssemblyInfoInputs.cache
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\obj\Debug\net6.0-windows\Vista.AssemblyInfo.cs
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\obj\Debug\net6.0-windows\Vista.csproj.CoreCompileInputs.cache
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\obj\Debug\net6.0-windows\Vista.csproj.CopyComplete
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\obj\Debug\net6.0-windows\Vista.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\obj\Debug\net6.0-windows\refint\Vista.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\obj\Debug\net6.0-windows\Vista.pdb
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\obj\Debug\net6.0-windows\Vista.genruntimeconfig.cache
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Vista\obj\Debug\net6.0-windows\ref\Vista.dll

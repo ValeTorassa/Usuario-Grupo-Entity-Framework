@@ -1,0 +1,34 @@
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Modelo\obj\Debug\net6.0\Modelo.csproj.AssemblyReference.cache
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Modelo\obj\Debug\net6.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Modelo\obj\Debug\net6.0\Modelo.AssemblyInfoInputs.cache
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Modelo\obj\Debug\net6.0\Modelo.AssemblyInfo.cs
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Modelo\obj\Debug\net6.0\Modelo.csproj.CoreCompileInputs.cache
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Modelo\bin\Debug\net6.0\Modelo.deps.json
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Modelo\bin\Debug\net6.0\Modelo.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Modelo\bin\Debug\net6.0\Modelo.pdb
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Modelo\bin\Debug\net6.0\Entidades.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Modelo\bin\Debug\net6.0\Entidades.pdb
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Modelo\obj\Debug\net6.0\Modelo.csproj.CopyComplete
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Modelo\obj\Debug\net6.0\Modelo.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Modelo\obj\Debug\net6.0\refint\Modelo.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Modelo\obj\Debug\net6.0\Modelo.pdb
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Modelo\obj\Debug\net6.0\ref\Modelo.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Modelo\bin\Debug\net6.0\Modelo.runtimeconfig.json
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Modelo\obj\Debug\net6.0\Modelo.genruntimeconfig.cache
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Modelo\bin\Debug\net6.0\Modelo.deps.json
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Modelo\bin\Debug\net6.0\Modelo.runtimeconfig.json
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Modelo\bin\Debug\net6.0\Modelo.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Modelo\bin\Debug\net6.0\Modelo.pdb
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Modelo\bin\Debug\net6.0\Entidades.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Modelo\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Modelo\obj\Debug\net6.0\Modelo.csproj.AssemblyReference.cache
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Modelo\obj\Debug\net6.0\Modelo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Modelo\obj\Debug\net6.0\Modelo.AssemblyInfoInputs.cache
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Modelo\obj\Debug\net6.0\Modelo.AssemblyInfo.cs
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Modelo\obj\Debug\net6.0\Modelo.csproj.CoreCompileInputs.cache
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Modelo\obj\Debug\net6.0\Modelo.csproj.CopyComplete
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Modelo\obj\Debug\net6.0\Modelo.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Modelo\obj\Debug\net6.0\refint\Modelo.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Modelo\obj\Debug\net6.0\Modelo.pdb
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Modelo\obj\Debug\net6.0\Modelo.genruntimeconfig.cache
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Modelo\obj\Debug\net6.0\ref\Modelo.dll

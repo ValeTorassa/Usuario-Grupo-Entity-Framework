@@ -1,0 +1,44 @@
+C:\Users\Valen\Downloads\EntityFrameworkExperimental\Entidades\bin\Debug\net6.0\Entidades.deps.json
+C:\Users\Valen\Downloads\EntityFrameworkExperimental\Entidades\bin\Debug\net6.0\Entidades.dll
+C:\Users\Valen\Downloads\EntityFrameworkExperimental\Entidades\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Valen\Downloads\EntityFrameworkExperimental\Entidades\obj\Debug\net6.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Valen\Downloads\EntityFrameworkExperimental\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Valen\Downloads\EntityFrameworkExperimental\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfo.cs
+C:\Users\Valen\Downloads\EntityFrameworkExperimental\Entidades\obj\Debug\net6.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Valen\Downloads\EntityFrameworkExperimental\Entidades\obj\Debug\net6.0\Entidades.dll
+C:\Users\Valen\Downloads\EntityFrameworkExperimental\Entidades\obj\Debug\net6.0\refint\Entidades.dll
+C:\Users\Valen\Downloads\EntityFrameworkExperimental\Entidades\obj\Debug\net6.0\Entidades.pdb
+C:\Users\Valen\Downloads\EntityFrameworkExperimental\Entidades\obj\Debug\net6.0\ref\Entidades.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 3\EntityFrameworkExperimental\Entidades\bin\Debug\net6.0\Entidades.deps.json
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 3\EntityFrameworkExperimental\Entidades\bin\Debug\net6.0\Entidades.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 3\EntityFrameworkExperimental\Entidades\bin\Debug\net6.0\Entidades.pdb
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 3\EntityFrameworkExperimental\Entidades\obj\Debug\net6.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 3\EntityFrameworkExperimental\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfoInputs.cache
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 3\EntityFrameworkExperimental\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfo.cs
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 3\EntityFrameworkExperimental\Entidades\obj\Debug\net6.0\Entidades.csproj.CoreCompileInputs.cache
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 3\EntityFrameworkExperimental\Entidades\obj\Debug\net6.0\Entidades.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 3\EntityFrameworkExperimental\Entidades\obj\Debug\net6.0\refint\Entidades.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 3\EntityFrameworkExperimental\Entidades\obj\Debug\net6.0\Entidades.pdb
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 3\EntityFrameworkExperimental\Entidades\obj\Debug\net6.0\ref\Entidades.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Entidades\bin\Debug\net6.0\Entidades.deps.json
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Entidades\bin\Debug\net6.0\Entidades.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Entidades\bin\Debug\net6.0\Entidades.pdb
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Entidades\obj\Debug\net6.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfoInputs.cache
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfo.cs
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Entidades\obj\Debug\net6.0\Entidades.csproj.CoreCompileInputs.cache
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Entidades\obj\Debug\net6.0\Entidades.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Entidades\obj\Debug\net6.0\refint\Entidades.dll
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Entidades\obj\Debug\net6.0\Entidades.pdb
+D:\ESCRITORIO NO BORRAR\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Entidades\obj\Debug\net6.0\ref\Entidades.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Entidades\bin\Debug\net6.0\Entidades.deps.json
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Entidades\bin\Debug\net6.0\Entidades.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Entidades\bin\Debug\net6.0\Entidades.pdb
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Entidades\obj\Debug\net6.0\Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfoInputs.cache
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Entidades\obj\Debug\net6.0\Entidades.AssemblyInfo.cs
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Entidades\obj\Debug\net6.0\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Entidades\obj\Debug\net6.0\Entidades.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Entidades\obj\Debug\net6.0\refint\Entidades.dll
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Entidades\obj\Debug\net6.0\Entidades.pdb
+C:\Users\Avatar\Desktop\Programacion 2023\Programacion 2°\After Parcial 4\Usuario-Grupo-Final\Usuario-Grupo\Entidades\obj\Debug\net6.0\ref\Entidades.dll
